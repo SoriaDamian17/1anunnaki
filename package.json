@@ -1,8 +1,8 @@
 {
-  "name": "react-gh-pages",
+  "name": "1anunnaki",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://soriadamian17.github.io/react-gh-pages",
+  "homepage": "http://soriadamian17.github.io/1anunnaki/",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
