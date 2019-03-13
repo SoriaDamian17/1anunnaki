@@ -17,6 +17,8 @@
 # Conspiración
  De 2010 a 2012, muchas referencias a la película comenzaron a desaparecer, incluido el sitio web, [http://anunnaki-the-movie.com/](http://anunnaki-the-movie.com/). Debido al misterioso cierre de la página web y a Jon Gress por haber estado en silencio durante una década, muchos acusaron a la película de ser un engaño.
 
+ Aca podes ver el link de sitio que fue cacheado en los servidores de Waymachine un sitio que lleva registro de todos los sitios que pasaron por la web.[anunnaki-the-movie-com](http://web.archive.org/web/20050316014238/http://1anunnaki.com/)
+
  Luego, en agosto de 2013, se vio una nueva actividad, supuestamente por Jon Gress, en la promoción de la película. Una cuenta de YouTube llamada ANUNNAKI - THE MOVIE se creó el 9 de agosto, que publicó "Teaser # 2". 
 
 # Entrevista de Jon Gress
