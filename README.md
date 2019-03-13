@@ -1,5 +1,6 @@
-1Anunnaki es una pelicula dirijida por [strong]Jon Gress y censurada en el año 2006.
-# 1Anunnaki
+# Description
+ 1Anunnaki es una pelicula dirijida por Jon Gress y censurada en el año 2006.
+# Introduction
 "and God said, "...Let us make man in our image, in our likeness..." by the bible
 
 Thousands of years before the Bible was written, the ancient Sumerians, the first civilization on Earth, gave detailed accounts of the Gods who came to earth and created mankind, "...in their own image...", they called them the "Anunnaki". After millenia of ruling the ancient peoples of Earth, these great Gods, the Anunnaki, vanished without a trace...
