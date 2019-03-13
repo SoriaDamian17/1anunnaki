@@ -1,4 +1,6 @@
-[![Portada Pelicula](https://www.bibliotecapleyades.net/imagenes_sumeranu/anu59_01.jpg)]
+<p align="center">
+  <img src="https://www.bibliotecapleyades.net/imagenes_sumeranu/anu59_01.jpg" alt="Portada Pelicula"/>
+</p>
 # Indice
 -  [Descripcion](#Descripción)
  - [Conspiración](#Conspiración)
