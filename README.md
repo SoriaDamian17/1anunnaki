@@ -1,17 +1,26 @@
+# Indice
+-  [Descripcion](#descripcion)
+ - [Conspiración](#conspiracion)
+ - [Entrevista de Jon Gress](#entrevista-de-jon-gress)
+ - [Sobre la Historia](#sobre-la-historia)
+ - [Pendientes](#pendientes)
+ - [Introduccion de la pelicula](#introduccion-de-la-pelicula)
+
+
 # Descripción
- El proyecto de la película 1Anunnaki estuvo presuntamente en producción desde el año 2000, y supuestamente se programó su lanzamiento en 2006 a través de Jaguar Films. La película se anunció por primera vez en el sitio web, http://anunnaki-the-movie.com/, que se mantuvo activa desde 2005 hasta 2008. Hubo cierto interés en torno al anuncio de la película en varios foros de discusión y otros sitios web relacionados con OVNI y extraterrestres. Incluso algunos sitios web de películas destacadas publicaron, hasta el 2016, la fecha de lanzamiento de la película como TBD (por determinar).
+ El proyecto de la película [1Anunnaki](#) estuvo presuntamente en producción desde el año 2000, y supuestamente se programó su lanzamiento en 2006 a través de Jaguar Films. La película se anunció por primera vez en el sitio web, [http://anunnaki-the-movie.com/](http://anunnaki-the-movie.com/), que se mantuvo activa desde 2005 hasta 2008. Hubo cierto interés en torno al anuncio de la película en varios foros de discusión y otros sitios web relacionados con OVNI y extraterrestres. Incluso algunos sitios web de películas destacadas publicaron, hasta el 2016, la fecha de lanzamiento de la película como TBD (por determinar).
 
 # Conspiración
- De 2010 a 2012, muchas referencias a la película comenzaron a desaparecer, incluido el sitio web, http://anunnaki-the-movie.com/. Debido al misterioso cierre de la página web y a Jon Gress por haber estado en silencio durante una década, muchos acusaron a la película de ser un engaño.
+ De 2010 a 2012, muchas referencias a la película comenzaron a desaparecer, incluido el sitio web, [http://anunnaki-the-movie.com/](http://anunnaki-the-movie.com/). Debido al misterioso cierre de la página web y a Jon Gress por haber estado en silencio durante una década, muchos acusaron a la película de ser un engaño.
 
- Luego, en agosto de 2013, se vio una nueva actividad, supuestamente por Jon Gress, en la promoción de la película. Una cuenta de YouTube llamada ANUNNAKI - THE MOVIE se creó el 9 de agosto, que publicó "Teaser # 2".
-
- Leer la entrevista: https://goo.gl/Y14vgC
+ Luego, en agosto de 2013, se vio una nueva actividad, supuestamente por Jon Gress, en la promoción de la película. Una cuenta de YouTube llamada ANUNNAKI - THE MOVIE se creó el 9 de agosto, que publicó "Teaser # 2". 
 
 # Entrevista de Jon Gress
 En una entrevista a principios de 2016 con Jon Gress, explicó que el tema era tan controvertido, con "más de 2000 secuencias de efectos especiales", además de sufrir numerosos ataques de sitios web, había causado retrasos en el proyecto.
 
 Aunque Gress afirmó que no había abandonado el proyecto en la entrevista de 2016, el guión original de 1Anunnaki se publicó y se puso a la venta en Amazon.com para 2017. Unos años más tarde, la entrevista de 2016 también se retiró de YouTube.
+
+Leer la entrevista: [https://goo.gl/Y14vgC](https://goo.gl/Y14vgC)
 
 # Sobre la Historia.
 y Dios dijo:" ... Hagamos al hombre a nuestra imagen, a nuestra semejanza ... "por la biblia
