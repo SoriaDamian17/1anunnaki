@@ -1,68 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1Anunnaki es una pelicula dirijida por [strong]Jon Gress y censurada en el año 2006.
+# 1Anunnaki
+"and God said, "...Let us make man in our image, in our likeness..." by the bible
 
-## Available Scripts
+Thousands of years before the Bible was written, the ancient Sumerians, the first civilization on Earth, gave detailed accounts of the Gods who came to earth and created mankind, "...in their own image...", they called them the "Anunnaki". After millenia of ruling the ancient peoples of Earth, these great Gods, the Anunnaki, vanished without a trace...
 
-In the project directory, you can run:
+...or did they? 
 
-### `npm start`
+"1 ANUNNAKI" - Is the debut epic sci-fi/adventure, and first in the "ANUNNAKI TRILOGY" of original motion pictures, by visionary Writer/Producer/ Director/Composer and Digital & Visual FX Artist Jon Gress.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+For almost a decade, Hollywood has predicted that some day in the near future, some talented filmmaker would put all of the pieces, the latest innovations in filmmaking, production, computer animation, digital & visual effects, electronic music and the latest advances in computer software technology, together to their highest and best use to create a movie that rivals those of Hollywood itself... and... all from the confines of his or her own studio.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+That challenge has gone unmet... until now. Described as a fearless filmmaker, Jon Gress ' groundbreaking "1 ANUNNAKI" combines a spellbinding tale, an amazingly talented cast and crew, bold photography (whether air, sea, land or underwater), a perfectly crafted score and mindblowing digital & visual effects to create an "edge-of-your-seat" movie experience.
 
-### `npm test`
+"The bar for independent feature film productions is about to be raised to a whole new level!..."
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# About the Story
 
-### `npm run build`
+Dr. Jonah Ptah is an evolutionary geneticist. His life is turned upside down when his archaeological expedition, to excavate the remains of what is believed to have been the legendary Ark of Noah, is destroyed by a deadly missile attack immediately following the discovery of a small mysterious vial.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ Upon his return home to the United States, and to a teaching position at the University, he is suddenly the target of an high-level plot to have him assassinated... but why? Perhaps it has something to do with the horrifying visions he has of the end of mankind...
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
