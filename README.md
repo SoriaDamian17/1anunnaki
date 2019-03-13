@@ -52,3 +52,8 @@ El Dr. Jonah Ptah es un genetista evolutivo. Su vida se invierte cuando su exped
  # Trailer
  [![1Anunnaki](https://img.youtube.com/vi/TRskm_DPkLg/0.jpg)](https://www.youtube.com/watch?v=TRskm_DPkLg)
 
+ # Extras
+<p align="center">
+  <img src="https://drive.google.com/open?id=1svsONKNCg2Ou9tr2_ghm1QD6BOFARL_d" alt="x2"/>
+</p>
+
