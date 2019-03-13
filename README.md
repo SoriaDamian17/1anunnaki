@@ -42,3 +42,6 @@ Ese desafío no se ha cumplido ... hasta ahora. Descrito como un cineasta intré
 El Dr. Jonah Ptah es un genetista evolutivo. Su vida se invierte cuando su expedición arqueológica, para excavar los restos de lo que se cree que fue el legendario Arca de Noé, es destruida por un ataque de misiles mortal inmediatamente después del descubrimiento de un pequeño frasco misterioso.
 
  A su regreso a casa en los Estados Unidos y a un puesto de profesor en la Universidad, de repente es el objetivo de un plan de alto nivel para asesinarlo ... pero ¿por qué? Tal vez tenga algo que ver con las horribles visiones que tiene del fin de la humanidad ...
+
+ # Trailer
+ (https://img.youtube.com/vi/TRskm_DPkLg/0.jpg)|(https://www.youtube.com/watch?v=TRskm_DPkLg)
