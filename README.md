@@ -1,10 +1,10 @@
 # Indice
--  [Descripcion](#descripcion)
- - [Conspiración](#conspiracion)
+-  [Descripcion](#Descripción)
+ - [Conspiración](#Conspiración)
  - [Entrevista de Jon Gress](#entrevista-de-jon-gress)
  - [Sobre la Historia](#sobre-la-historia)
  - [Pendientes](#pendientes)
- - [Introduccion de la pelicula](#introduccion-de-la-pelicula)
+ - [Introduccion de la pelicula](#Introducción-de-la-Pelicula)
 
 
 # Descripción
